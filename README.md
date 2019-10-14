@@ -1,7 +1,10 @@
-# Socket-Programming
-Socket Programming using TCP/IP protocol with implementation of a multiplayer tic tac toe game
-Collaborators:
-Aditya Bakare
-Manas Patel
-Sohan Kale
-Anivedh Auradkar
+# Socket_Programming_C_TCP-IP
+**Socket Programming in C using TCP/IP Programming**   
+
+
+Collaborators:  
+
+-[Sohan](https://github.com/sohan-k)  
+-[Anivedh](https://github.com/anivedh555)  
+-[Manas](https://github.com/Manas-Patel9090)  
+-[Aditya](https://github.com/Adityab-7)
